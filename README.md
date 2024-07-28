@@ -1,5 +1,5 @@
 # Use Laravel pagination in Laravel 11
- Laravel 11 Project with pagination
+ Laravel 11 Project with pagination. This application creates some dummy data using Laravel Seeder and then uses Laarvel pagination paginate() method to display them in pages. Go through the tutorial https://codehow2.com/laravel/how-to-use-laravel-pagination
 
 # How To Use
 1. Download the repository from https://github.com/sundarsau/lara_datatables
